@@ -1,0 +1,31 @@
+*{
+  background-color:aliceblue;
+}
+
+body{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.2rem;
+    text-align: center;  
+    color: #333;
+    margin: 0;
+}
+
+#image {
+    max-width: 500px; 
+    width: 100%;
+    display: block; 
+    margin: 0 auto;
+}
+
+#bold{
+  font-weight: bold;
+}
+
+#tribute-info{
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+  margin: 20%;
+  margin-top: 20px; 
+  margin-bottom: 20px; 
+}
